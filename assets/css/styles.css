@@ -1,0 +1,71 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+    padding: 0em;
+    margin: 0em;
+    
+
+}
+.header{
+    background-image: url(/assets/imgs/headcafe.jpg);
+    width: 100%;
+    height: 20em;
+    background-size: cover;
+    position: center;
+ color: black; 
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-size: 2em;
+ text-align:center;
+ 
+}
+.header h1{
+    margin:0px;
+    font: weight 400px;
+    font-size: 3.5em;
+    
+    
+    
+}
+.header p{
+    font-style: italic;
+    font-weight: 600;
+   
+}
+.banner{
+    position: absolute;
+    left: 30%;
+    top: 40%;
+
+}
+.products{
+    width: 80%;
+    margin: auto;
+}
+.products td{
+    width: 50%;
+    padding:2em;
+}
+.products img{
+    width: 100%;
+    border: solid 1px #ddd;
+}
+.products h2{
+    color: beige;
+    font-size: 3em;
+}
+.products p{
+    color: beige;
+    font-size: 2em;
+    font-style: italic;
+    
+}
+.footer{
+    height: 3em;
+    line-height: 3em;
+    background-color:beige;
+    color: black;
+    text-align: center;
+    font-weight: 900;
+
+}
+
