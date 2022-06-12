@@ -7,7 +7,7 @@ body{
 
 }
 .header{
-background-image: url(assets/imgs/headcafe.jpg);
+    background-image: url(img2/headcafe.jpg);
     width: 100%;
     height: 20em;
     background-size: cover;
